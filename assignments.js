@@ -15,3 +15,10 @@ function abbrevName(name){
   return names[0].charAt(0).toUpperCase() + '.' + names[1].charAt(0).toUpperCase();
 
 }
+
+//My head at the wrong end
+//################################################################
+function fixTheMeerkat(arr) {
+  //your code here 
+  return arr.reverse();
+ }
